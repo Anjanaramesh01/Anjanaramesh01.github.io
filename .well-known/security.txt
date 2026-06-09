@@ -1,0 +1,6 @@
+Contact: mailto:anjanarameshsr2001@gmail.com
+Expires: 2027-01-01T00:00:00.000Z
+Preferred-Languages: en, ml
+Canonical: https://github.com/Anjanaramesh01/Anjanaramesh01.github.io/.well-known/security.txt
+Policy: https://github.com/Anjanaramesh01/Anjanaramesh01.github.io/security-policy.html
+Hiring: https://github.com/Anjanaramesh01/Anjanaramesh01.github.io/#contact-section

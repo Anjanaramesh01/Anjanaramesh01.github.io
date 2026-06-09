@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://github.com/Anjanaramesh01/Anjanaramesh01.github.io/sitemap.xml
