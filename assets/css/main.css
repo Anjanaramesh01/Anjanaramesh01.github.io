@@ -818,6 +818,12 @@ body.loaded {
 .tj-header-area .logo-box a {
 	display: inline-block;
 }
+.tj-header-area .logo-box a img {
+	max-height: 45px;
+	width: auto;
+	object-fit: cover;
+	border-radius: 50%;
+}
 .tj-header-area .header-info-list ul li {
 	margin-right: 25px;
 }
